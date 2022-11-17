@@ -12,7 +12,7 @@ function App() {
       <h1>{props.name}</h1>
       <h2>ID={props.ID}</h2>
       <h3>stream = {props.stream}</h3>
-      <h3>contactno. = {props.contactno}</h3>
+      <h3>contact no. = {props.contactno}</h3>
       <h3>Email = {props.email}</h3>
     </div>
     )
